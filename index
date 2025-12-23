@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>687 Vintage Corp | Consulting & Advisory</title>
+  <meta name="description" content="687 Vintage Corp provides consulting, advisory, and coaching-style support for individuals and small businesses." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container header-grid">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">687</div>
+        <div>
+          <div class="brand-name">687 Vintage Corp</div>
+          <div class="brand-tag">Consulting • Advisory • Coaching Support</div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <a href="#services">Services</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#contact">Contact</a>
+        <a href="#policies">Policies</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>Practical guidance for people and small businesses.</h1>
+          <p class="lead">
+            687 Vintage Corp offers structured consulting and coaching-style support focused on planning,
+            organization, accountability, and decision-making.
+          </p>
+
+          <div class="cta-row">
+            <!-- Replace with your Stripe Payment Link URL -->
+            <a class="btn primary" href="https://buy.stripe.com/YOUR_PAYMENT_LINK" target="_blank" rel="noopener">
+              Pay / Book Now
+            </a>
+            <a class="btn" href="#contact">Ask a Question</a>
+          </div>
+
+          <p class="micro">
+            Note: Services are non-clinical and non-medical. We do not provide therapy, diagnosis, or legal advice.
+          </p>
+        </div>
+
+        <div class="card highlight">
+          <h2>What we help with</h2>
+          <ul class="checklist">
+            <li>Planning and goal-setting</li>
+            <li>Organization and accountability</li>
+            <li>Personal or business process support</li>
+            <li>Guidance on next steps and resources</li>
+            <li>Documentation and workflow setup</li>
+          </ul>
+          <div class="small">
+            Typical turnaround: <strong>24–72 hours</strong> depending on request.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="section">
+      <div class="container">
+        <h2>Services</h2>
+        <div class="grid3">
+          <article class="card">
+            <h3>Advisory Session</h3>
+            <p>One-time session to clarify goals, map next steps, and build a plan.</p>
+            <p class="small">Delivery: live call or structured written plan.</p>
+          </article>
+
+          <article class="card">
+            <h3>Ongoing Support</h3>
+            <p>Weekly or bi-weekly accountability and progress support.</p>
+            <p class="small">Includes check-ins, planning, and documentation support.</p>
+          </article>
+
+          <article class="card">
+            <h3>Business Setup Support</h3>
+            <p>Administrative and operational setup help (systems, workflows, documentation).</p>
+            <p class="small">No legal or tax advice—coordination and organization only.</p>
+          </article>
+        </div>
+
+        <div class="note">
+          <strong>Important:</strong> We provide consulting and coaching-style support only. If you need medical,
+          mental-health, legal, or financial advice, please consult a licensed professional.
+        </div>
+      </div>
+    </section>
+
+    <section id="pricing" class="section alt">
+      <div class="container">
+        <h2>Pricing</h2>
+        <div class="grid3">
+          <article class="card">
+            <h3>Starter</h3>
+            <p class="price">$___</p>
+            <ul class="bullets">
+              <li>1 session (30–45 min)</li>
+              <li>Action plan summary</li>
+              <li>Email follow-up (1)</li>
+            </ul>
+            <a class="btn primary" href="https://buy.stripe.com/YOUR_PAYMENT_LINK" target="_blank" rel="noopener">Pay</a>
+          </article>
+
+          <article class="card">
+            <h3>Standard</h3>
+            <p class="price">$___</p>
+            <ul class="bullets">
+              <li>2 sessions</li>
+              <li>Documentation support</li>
+              <li>Email support (7 days)</li>
+            </ul>
+            <a class="btn primary" href="https://buy.stripe.com/YOUR_PAYMENT_LINK" target="_blank" rel="noopener">Pay</a>
+          </article>
+
+          <article class="card">
+            <h3>Ongoing</h3>
+            <p class="price">$___ / month</p>
+            <ul class="bullets">
+              <li>Weekly support</li>
+              <li>Accountability + planning</li>
+              <li>Priority scheduling</li>
+            </ul>
+            <a class="btn primary" href="https://buy.stripe.com/YOUR_PAYMENT_LINK" target="_blank" rel="noopener">Pay</a>
+          </article>
+        </div>
+
+        <p class="small muted">
+          Pricing is shown before checkout. Payments are processed securely by Stripe.
+        </p>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <div class="grid2">
+          <div class="card">
+            <h3>Business Information</h3>
+            <p><strong>687 Vintage Corp</strong></p>
+            <p>3900 Lakeland Dr. Ste 200 / 1212<br/>Flowood, Mississippi 39232</p>
+            <p class="small">
+              Email: <a href="mailto:YOUR_EMAIL@domain.com">YOUR_EMAIL@domain.com</a><br/>
+              Phone: <a href="tel:+1662XXXXXXX">+1 (662) XXX-XXXX</a>
+            </p>
+          </div>
+
+          <div class="card">
+            <h3>Quick Message</h3>
+            <p class="small">
+              For faster responses, include: your goal, timeline, and preferred contact method.
+            </p>
+
+            <!-- GitHub Pages can't send email from a form without a backend.
+                 Option A: use a mailto link. Option B: use a form service (Formspree, etc.). -->
+            <a class="btn" href="mailto:YOUR_EMAIL@domain.com?subject=687%20Vintage%20Inquiry&body=Name:%0ARequest:%0ATimeline:%0APhone%20(optional):">
+              Email Us
+            </a>
+
+            <p class="micro muted">
+              Response time: typically 24–72 hours.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="policies" class="section alt">
+      <div class="container">
+        <h2>Policies</h2>
+
+        <div class="grid2">
+          <article class="card">
+            <h3>Refund Policy</h3>
+            <p class="small">
+              Refunds are available for unused services if requested within 24 hours of purchase.
+              If work has started or a session has been delivered, refunds may be partial or unavailable.
+              If a scheduling conflict occurs, we will reschedule at no cost.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Terms of Service</h3>
+            <p class="small">
+              By purchasing services, you agree that 687 Vintage Corp provides consulting and coaching-style support only.
+              We do not provide legal, tax, medical, or clinical services. You are responsible for decisions and outcomes.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Privacy</h3>
+            <p class="small">
+              We collect only the information you provide for scheduling and service delivery.
+              We do not sell personal data. Payment information is handled securely by Stripe.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Service Delivery</h3>
+            <p class="small">
+              Services are delivered remotely (phone/video/email) unless otherwise agreed in writing.
+              Timelines depend on scope and client responsiveness.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand-name">687 Vintage Corp</div>
+        <div class="micro muted">3900 Lakeland Dr. Ste 200 / 1212, Flowood, MS 39232</div>
+      </div>
+      <div class="micro muted">© <span id="year"></span> 687 Vintage Corp. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
